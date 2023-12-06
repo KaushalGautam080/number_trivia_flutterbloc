@@ -1,8 +1,15 @@
-# number_trivia
+# Number Trivia
 
-A new Flutter project.
+A new Flutter project where the user inputs an number or get random number, the program returns an information related to that number 
 
-## Getting Started
+## Packages Used
+ flutter_bloc
+ get_it
+ equatable
+ http
+ shared_preferences
+ connectivity
+ dartz
 
 This project is a starting point for a Flutter application.
 
